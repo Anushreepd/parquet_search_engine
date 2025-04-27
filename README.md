@@ -1,4 +1,4 @@
-# parquet_search_engine
+# Parquet Search Engine
 
 A Simple fullstack app to upload files and search through the records.
 
@@ -22,11 +22,11 @@ A Simple fullstack app to upload files and search through the records.
 clone
 
 ## Backend 
-cd backend
-go mod tidy
-go run main.go
+- cd backend
+- go mod tidy
+- go run main.go
 
 ## Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
